@@ -28,6 +28,8 @@ The mechanics of this environment:
 
 2. Place the environment in the project folder
 
+3. To install the Python environment, follow the instructions here: [Environment Setup](https://github.com/udacity/deep-reinforcement-learning#dependencies)
+
 ### Instructions
 
 Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent and then enjoy watching it improve!  
